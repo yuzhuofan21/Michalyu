@@ -1,4 +1,6 @@
 # Michalyu
+班级：计G191, 学号：2019322029， 姓名：余卓凡
+----
 实验四 字符串实验
 ====
 一、实验目的
@@ -60,10 +62,10 @@ public class words {
    for(int i=0 ;i<len ;i++) {
     System.out.print(t_str[i]); 
     flag++ ;
-    if(flag==7) {
+    if(flag%2==1&&flag==7) {
      System.out.print(",");
     }
-    if(flag==14) {
+    if(flag%2==0&&flag==14) {
      System.out.println("。");
      flag=0 ;
     }
@@ -92,6 +94,12 @@ public class words {
 
 }
 ```
-四、代码运行结果
+四、流程图
 ===
-![https://github.com/yuzhuofan21/Michalyu/blob/master/%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%9C.jpg](img_url)
+
+五、代码运行结果
+===
+
+六、实验感想
+===
+
