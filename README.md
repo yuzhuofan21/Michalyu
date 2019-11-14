@@ -94,4 +94,4 @@ public class words {
 ```
 四、代码运行结果
 ===
-![](https://github.com/yuzhuofan21/Michalyu/blob/master/%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%9C.jpg_url)
+![https://github.com/yuzhuofan21/Michalyu/blob/master/%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%9C.jpg](img_url)
