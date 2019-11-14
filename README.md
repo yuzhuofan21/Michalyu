@@ -96,10 +96,11 @@ public class words {
 ```
 四、流程图
 ===
-
+![image](https://github.com/yuzhuofan21/Michalyu/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 五、代码运行结果
 ===
-
+![image](https://github.com/yuzhuofan21/Michalyu/blob/master/%E7%A8%8B%E5%BA%8F%E7%BB%93%E6%9E%9C.jpg)
 六、实验感想
 ===
+本次实验让我学会了字符串的功能使用，以及如何把字符串装成数组，利用了循环语句和if语句
 
