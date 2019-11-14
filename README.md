@@ -36,7 +36,8 @@
 
 三、代码：
 ===
-```package sty01;
+```java
+package sty01;
 
 
 import java.util.ArrayList;
@@ -51,7 +52,7 @@ public class words {
  int len=-1 ;
  int a=0;
 
-
+##实现字符串数组排列
  sc=new Scanner(System.in);
  
   if(sc!=null) {
@@ -69,7 +70,8 @@ public class words {
      System.out.println("。");
      flag=0 ;
     }
- 
+```java
+## 实现输入参数
    }
    System.out.println("请输入一个字符：");
    String s=sc.next();
